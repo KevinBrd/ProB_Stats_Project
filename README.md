@@ -1,4 +1,4 @@
-# ProB Players Stats Analyze
+# ProB Players Stats analysis
 
 This project scrapes data from the official website of the ProB to build a dataset of its players.
 Afterwards, we correct the data, EDA and PCA.
