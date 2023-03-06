@@ -30,6 +30,10 @@ $ scrapy crawl playersInformation -O dataset_proBPlayers.json
 $ python script_clean_duplicate_players.py
 ```
 
+## Examples
+
+Open "main.ipynb".
+
 ## Other information
 
 This project is in public, but it is part of a larger project that scrapes the stats of players from multiple leagues to get better results if you want to scoot
