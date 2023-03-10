@@ -3,14 +3,14 @@
 This project scrapes data from the official website of the ProB to build a dataset of its players.
 Afterwards, we correct the data, EDA and PCA.
 
-Original website **https://www.lnb.fr/pro-b/stats-engine/?option=player&season=2022&competition=265&type=total**.
+Original website : [LNB Stats Engine](https://www.lnb.fr/pro-b/stats-engine/?option=player&season=2022&competition=265&type=total)
 
 Author: Kévin Bourdon
 
 ## Dependencies
 
-Python 3 (3.10 or higher)
-Jupyter Notebook (6.4.7 or higher)
+Python 3 (3.10 or higher)<br>
+Jupyter Notebook (6.4.7 or higher)<br>
 Scrapy (2.8.0 or higher)
 
 Install these tools with
