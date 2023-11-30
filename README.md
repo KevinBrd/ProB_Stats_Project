@@ -5,7 +5,7 @@ Afterwards, we correct the data, EDA and PCA.
 
 Original website : [LNB Stats Engine](https://www.lnb.fr/pro-b/stats-engine/?option=player&season=2022&competition=265&type=total)
 
-Author: Kévin Bourdon
+Author: Kevin Bourdon
 
 ## Dependencies
 
@@ -40,5 +40,5 @@ This project is in public, but it is part of a larger project that scrapes the s
 
 ## Contact
 
-For questions or comments, please contact [Kévin Bourdon](mailto:kevin.bourdon.etu@univ-lille.fr). I would love
+For questions or comments, please contact [Kévin Bourdon](mailto:kevin.bourdon@kedgebs.com). I would love
 to hear from you.
