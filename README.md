@@ -40,5 +40,5 @@ This project is in public, but it is part of a larger project that scrapes the s
 
 ## Contact
 
-For questions or comments, please contact [Kévin Bourdon](mailto:kevin.bourdon@kedgebs.com). I would love
+For questions or comments, please contact [Kevin Bourdon](mailto:kevin.bourdon@kedgebs.com). I would love
 to hear from you.
